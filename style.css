@@ -1,0 +1,62 @@
+body {
+  background-color: #ff3333; 
+}
+
+h1 {
+
+font-family: Lucida Handwriting;
+font-size: 45px;
+text-align: center;
+
+}
+
+img {
+  border-radius: 8px;
+  width: 11%;
+  height: 11%; 
+}
+
+table, th, td{
+
+  border: 3px solid black;
+  border-collapse: collapse;
+  padding: 5px; 
+} 
+
+th{
+   height: 45px;
+   font-family: Copperplate; 
+   font-size: 20px;
+  text-align: center;
+}
+
+td {
+     height: 25px;
+      font-family: Arial; 
+      font-size: 1em;
+}
+
+h2 {
+font-family: Copperplate; 
+ font-size: 35px; 
+ font-style: italic;
+ text-align: center;
+
+}
+
+p{
+ font-family: Arial; 
+ font-size: 1em;
+}
+
+button{
+ font-family: Arial; 
+ font-size: 1em;
+}
+button:hover {
+  background-color: white;
+  color: red; 
+  transition: 3s;
+  font-size: 35px; 
+
+}
